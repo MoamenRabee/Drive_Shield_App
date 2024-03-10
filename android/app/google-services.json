@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203050755191",
+    "project_id": "driveshield-d5a37",
+    "storage_bucket": "driveshield-d5a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203050755191:android:b1578ce77890fb74ee5272",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiVuRdMeAsC1idqay8_rPmqTCf6AsjbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

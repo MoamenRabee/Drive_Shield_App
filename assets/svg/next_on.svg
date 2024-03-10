@@ -1,0 +1,59 @@
+<svg id="Group_741" data-name="Group 741" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118.197" height="118.197" viewBox="0 0 118.197 118.197">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_708" data-name="Rectangle 708" width="118.197" height="118.197" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_702" data-name="Rectangle 702" width="69.362" height="69.362" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_703" data-name="Rectangle 703" width="93.779" height="93.779" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <path id="Path_673" data-name="Path 673" d="M25.01,48.142A23.235,23.235,0,0,0,39.3,69.526a22.711,22.711,0,0,0,8.837,1.748,23.235,23.235,0,0,0,17.874-8.447,22.837,22.837,0,0,0,5.258-14.685,23.132,23.132,0,0,0-46.264,0" transform="translate(-25.01 -25.01)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff294d"/>
+      <stop offset="1" stop-color="#d11f2f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_740" data-name="Group 740" clip-path="url(#clip-path)">
+    <g id="Group_735" data-name="Group 735" transform="translate(0 -0.001)">
+      <g id="Group_734" data-name="Group 734" clip-path="url(#clip-path)">
+        <g id="Group_727" data-name="Group 727" transform="translate(24.417 24.418)" opacity="0.3">
+          <g id="Group_726" data-name="Group 726">
+            <g id="Group_725" data-name="Group 725" clip-path="url(#clip-path-3)">
+              <circle id="Ellipse_1" data-name="Ellipse 1" cx="33.962" cy="33.962" r="33.962" transform="translate(0.719 0.719)" fill="none" stroke="#d11f2f" stroke-miterlimit="10" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_730" data-name="Group 730" transform="translate(12.209 12.209)" opacity="0.2">
+          <g id="Group_729" data-name="Group 729">
+            <g id="Group_728" data-name="Group 728" clip-path="url(#clip-path-4)">
+              <path id="Path_672" data-name="Path 672" d="M101.331,55.16A46.171,46.171,0,1,1,55.161,8.99,46.17,46.17,0,0,1,101.331,55.16Z" transform="translate(-8.27 -8.27)" fill="none" stroke="#d11f2f" stroke-miterlimit="10" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_733" data-name="Group 733" transform="translate(0 0.001)" opacity="0.1">
+          <g id="Group_732" data-name="Group 732" transform="translate(0 0)">
+            <g id="Group_731" data-name="Group 731" clip-path="url(#clip-path)">
+              <circle id="Ellipse_2" data-name="Ellipse 2" cx="58.38" cy="58.38" r="58.38" transform="translate(0.718 0.719)" fill="none" stroke="#d11f2f" stroke-miterlimit="10" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_737" data-name="Group 737" transform="translate(35.967 35.967)">
+      <g id="Group_736" data-name="Group 736" clip-path="url(#clip-path-6)">
+        <rect id="Rectangle_706" data-name="Rectangle 706" width="46.264" height="46.264" transform="translate(0 -0.001)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_739" data-name="Group 739" transform="translate(0 -0.001)">
+      <g id="Group_738" data-name="Group 738" clip-path="url(#clip-path)">
+        <path id="Path_674" data-name="Path 674" d="M43.239,48.042l5.325-5.325-5.325-5.325" transform="translate(18.943 16.382)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_7" data-name="Line 7" x1="3.075" transform="translate(50.688 59.13)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_8" data-name="Line 8" x1="10.159" transform="translate(57.349 59.13)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

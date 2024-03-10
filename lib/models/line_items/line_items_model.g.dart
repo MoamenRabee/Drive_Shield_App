@@ -1,0 +1,41 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'line_items_model.dart';
+
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+LineItemsModel _$LineItemsModelFromJson(Map<String, dynamic> json) =>
+    LineItemsModel(
+      id: json['id'] as int,
+      invoiceId: json['invoice_id'] as int?,
+      productId: json['product_id'] as int,
+      description: json['description'] as String,
+      quantity: json['quantity'] as String,
+      unitPrice: json['unit_price'] as String,
+      discount: json['discount'] as String,
+      discountType: json['discount_type'] as String,
+      taxPercent: json['tax_percent'] as String,
+      name: json['name'] as String,
+      product: ProductModel.fromJson(json['product'] as Map<String, dynamic>),
+      createdAt: DateTime.parse(json['created_at'] as String),
+      updatedAt: DateTime.parse(json['updated_at'] as String),
+    );
+
+Map<String, dynamic> _$LineItemsModelToJson(LineItemsModel instance) =>
+    <String, dynamic>{
+      'id': instance.id,
+      'invoice_id': instance.invoiceId,
+      'product_id': instance.productId,
+      'description': instance.description,
+      'quantity': instance.quantity,
+      'unit_price': instance.unitPrice,
+      'discount': instance.discount,
+      'discount_type': instance.discountType,
+      'tax_percent': instance.taxPercent,
+      'created_at': instance.createdAt.toIso8601String(),
+      'updated_at': instance.updatedAt.toIso8601String(),
+      'name': instance.name,
+      'product': instance.product,
+    };
